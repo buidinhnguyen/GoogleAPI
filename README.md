@@ -9,5 +9,4 @@ Custom Google Maps API
 
 =======
 remove:
--Blogger
-- 
+- Blogger
